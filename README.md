@@ -8,7 +8,7 @@ This assignment uses Python libraries and the Tweepy API to perform a sentiment 
     * Fox News has the most negative sentiment rating while CNN has the least negative
     * The sentiment holds true both in quanitity of tweets and in range where Fox News does not have any tweets with a  positive sentiment greater than 0.5
 
-## Python Plots Markdown
+## Python Markdown
 
 ```python
 # Dependencies
